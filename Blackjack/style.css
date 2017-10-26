@@ -1,0 +1,25 @@
+img {
+	max-width: 10%;
+	max-height: 10%;
+	padding: 5px;
+}
+
+body {
+	margin: 0px;
+	text-align: center;
+	background-color: #35cea5;
+}
+
+#totalP, #totalD {
+	font-weight: bold;
+	font-size: larger;
+}
+
+.button {
+	font-size: 15px;
+
+}
+
+#victor {
+	font-size: larger;
+}
