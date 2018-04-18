@@ -1,7 +1,7 @@
 Project Blackjack
 ========
 
-Project Blackjack is a browser based Blackjack game written in JavaScript.
+Project Blackjack is a browser based Blackjack game written in JavaScript. Try it out by visiting [it](https://jessicakarpovich.github.io/Blackjack/Blackjack/).
 
 Components
 ----------
